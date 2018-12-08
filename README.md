@@ -55,7 +55,7 @@ return 0;
 }
 ```
 **Hasil**
-![hasil](https://github.com/Isrohdyt18/praktikum7/blob/master/soal1/soal1.png)
+![hasil](https://raw.githubusercontent.com/Chistopertt/praktikum7/master/soal1/soal1.png)
 
 
 ##Soal2.cpp
@@ -106,7 +106,7 @@ main()
 }
 ```
 **Hasiil**
-![Hasil](https://github.com/Isrohdyt18/praktikum7/blob/master/soal2/soal2.png)
+![Hasil](https://raw.githubusercontent.com/Chistopertt/praktikum7/master/soal2/soal2.png)
 
 ##soal3.cpp
 **Alur Argoritma**
@@ -121,12 +121,12 @@ main()
 #include
 #include
 void balik(char *k){
-if(*k!=î){
+if(*k!=‚Äù){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=î....î;--> //untuk masukan kata
+char *kata=‚Äù....‚Äù;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
@@ -152,4 +152,4 @@ int main()
 }
 ```
 **Hasil**
-![hasil](https://github.com/Isrohdyt18/praktikum7/blob/master/soal3/soal3.png)
+![hasil](https://raw.githubusercontent.com/Chistopertt/praktikum7/master/soal3/soal3.png)
